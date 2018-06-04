@@ -1,6 +1,6 @@
 .navbar { background-color: #615D6C; }
 
 .navbar-brand {
-  /* font */
+  font-family: "UniqueRegular", "monospace";
   color: #89BBFE;
 }
