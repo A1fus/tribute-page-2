@@ -1,8 +1,13 @@
+.body {
+  font-family: "Libre Franklin", "serif";
+}
+
 .navbar {
   background-color: #615D6C;
 }
 
 .navbar-brand {
-  font-family: "UniqueRegular", "monospace";
+  font-size: 2.3rem;
+  font-weight: 600;
   color: #89BBFE;
 }
